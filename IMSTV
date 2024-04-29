@@ -41,8 +41,14 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:0 group-title="SPORT PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_424.png",SPORTSTAR 4
+#EXTINF:0 group-title="SPORT PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",SPORTSTAR 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:0 group-title="SPORT PREMIUM" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png",ESPN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be65e5985fa04a49af310f0a92a0260a:1acb5ff7b0dbfdf19c4dca1aabfaaa11
+#EXTVLCOPT:http-referrer=https://www.herokuapp.com/
+https://corsusa-0f6ba28119a6.herokuapp.com/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd
