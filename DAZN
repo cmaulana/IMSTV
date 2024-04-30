@@ -1,10 +1,3 @@
-#EXTINF:-1 tvg-id="DAZN.com" tvg-logo="https://github.com/cmaulana/IMSTV/blob/main/DAZN.png" group-title="DAZN" , dazn-linear-042 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-042/stream.mpd
-
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/Sf4tvWw/daznf1.png" group-title="DAZN" , 016 DAZN F1 🇪🇸 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -284,26 +277,26 @@ https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
 https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-501/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN COMBAT" tvg-logo="https://i.ibb.co/DLK0y9f/dazncombat.png" group-title="DAZN" , 502 DAZN COMBAT 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
 https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-502/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://i.ibb.co/vB6Fqrw/daznwomensfootball.png" group-title="DAZN" , 503 DAZN WOMEN'S FOOTBALL 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
 https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-503/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN FAST+" tvg-logo="https://i.ibb.co/tJP1cxn/daznfastplus.png" group-title="DAZN" , 504 DAZN FAST+ 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
 https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-504/stream.mpd
