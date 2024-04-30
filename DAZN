@@ -1,3 +1,5 @@
+<###### DAZN ######> #EXTINF:-1 group-logo="https://raw.githubusercontent.com/cmaulana/IMSTV/main/DAZN.png",
+
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/Sf4tvWw/daznf1.png" group-title="DAZN" , 016 DAZN F1 🇪🇸 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
