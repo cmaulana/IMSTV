@@ -1,3 +1,38 @@
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL" , DAZN 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL" , DAZN 2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL" , Bein-sport-3 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-035/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL" , Bein-sport-3 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-041/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL" , Eleven 2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-049/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL" , Eleven 3 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-champion-YrnEb6XT.png?download=true" group-title="UCL" , Eleven 4 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
+
 #EXTINF:-1 tvg-id="Milan TV.it" tvg-logo="https://i.ibb.co/HqPT4m3/milantv.png" group-title="13.SPORT" , MILAN TV 🇮🇹 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
