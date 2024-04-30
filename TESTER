@@ -3,3 +3,20 @@ https://cikgusuraya.tech/vidio/index.php?id=7464|user-agent=mozilla/89 ExoPlayer
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/S1YVrsYE0Fm49BGKhIgqkpnEk8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png" group-title="Test", CHampios TV5
 https://cikgusuraya.tech/vidio/index.php?id=9182|user-agent=mozilla/89 ExoPlayerLib
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trial.4utv.my.id/dbcon/drm-plt.php?id=6685&user=4u&token=d8fd724f48b81f6025f2cc7a54ee2aed
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="Europa league", Champions Tv 1
+https://trial.4utv.my.id/dbcon/plt.mpd?id=6685&user=4u&token=d8fd724f48b81f6025f2cc7a54ee2aed|user-agent=mozilla/89 ExoPlayerLib
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_key=https://trial.4utv.my.id/dbcon/drm-plt.php?id=6686&user=4u&token=d8fd724f48b81f6025f2cc7a54ee2aed
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3t3zHq1HLp4HOlhQfZA1-rc7QQ4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="Europa league", Champions Tv 2
+https://trial.4utv.my.id/dbcon/plt.mpd?id=6686&user=4u&token=d8fd724f48b81f6025f2cc7a54ee2aed|user-agent=mozilla/89 ExoPlayerLib
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_key=https://trial.4utv.my.id/dbcon/drm-plt.php?id=6786&user=4u&token=d8fd724f48b81f6025f2cc7a54ee2aed
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/f4-7EI2_Sj9cY0Tb1v8QHyA1QBU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="Europa league", Champions Tv 3
+https://trial.4utv.my.id/dbcon/plt.mpd?id=6786&user=4u&token=d8fd724f48b81f6025f2cc7a54ee2aed|user-agent=mozilla/89 ExoPlayerLib
