@@ -1,3 +1,17 @@
+#EXTINF:-1 tvg-id="DAZN.com" tvg-logo="https://github.com/cmaulana/IMSTV/blob/main/DAZN.png" group-title="DAZN" , dazn-linear-042 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-042/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN.com" tvg-logo="https://github.com/cmaulana/IMSTV/blob/main/DAZN.png" group-title="DAZN" , dazn-linear-041 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-041/stream.mpd
+
 #EXTINF:-1 tvg-id="DAZN.com" tvg-logo="https://github.com/cmaulana/IMSTV/blob/main/DAZN.png" group-title="DAZN" , dazn-linear-039 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -153,3 +167,38 @@ https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-038/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
 https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-040/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png" group-title="DAZN" , 043 DAZN LaLiga 🇪🇸 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-043/stream.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nn8PzJp/unbeaten.png" group-title="DAZN" , 044 DAZN UNBEATEN 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-044/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN1HD.uk" tvg-logo="https://i.ibb.co/mzDDZdc/dazn1.png" group-title="DAZN" , 045 DAZN 1 🇬🇧 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn/dash/dazn-linear-045/stream.mpd
+
+#EXTINF:-1 tvg-id="Canal+ Ligue 1.fr" tvg-logo="https://i.ibb.co/HCM50yH/daznxcanalplusl1.png" group-title="DAZN" , 046 DAZN CANAL+ LIGUE 1 🇫🇷 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-046/stream.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="DAZN" , 047 DAZN ELEVEN 1 🇳🇱 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-047/stream.mpd
