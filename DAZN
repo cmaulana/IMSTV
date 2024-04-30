@@ -1,15 +1,16 @@
-#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/football/3001401/fixture/34239/assets/1920_thumbnail.png" group-title="LIVE-LIGA CHAMPION", Bayern Munich vs Real Madrid (Rabu 01:45 WIB)
-https://open.http.mp.streamamg.com/p/3001401/sp/300140100/playManifest/entryId/0_vv1pxj4x/format/applehttp/protocol/https/a.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.streamplay.streamamg.com/football/3001401/fixture/34240/assets/1920_thumbnail.png" group-title="LIVE-LIGA CHAMPION", Borussia Dortmund vs Paris Saint-Germain (Kamis 01:45 WIB)
-https://open.http.mp.streamamg.com/p/3001401/sp/300140100/playManifest/entryId/0_3uiem7ex/format/applehttp/protocol/https/a.m3u8
-
-#EXTINF:-1 tvg-id="DAZN.com" tvg-logo="https://github.com/cmaulana/IMSTV/blob/main/DAZN.png" group-title="DAZN" , dazn-linear-034 
+#EXTINF:-1 tvg-id="DAZN.com" tvg-logo="https://github.com/cmaulana/IMSTV/blob/main/DAZN.png" group-title="DAZN" , dazn-linear-039 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-034/stream.mpd
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-039/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN.com" tvg-logo="https://github.com/cmaulana/IMSTV/blob/main/DAZN.png" group-title="DAZN" , dazn-linear-036 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-036/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/Sf4tvWw/daznf1.png" group-title="DAZN" , 016 DAZN F1 🇪🇸 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
@@ -131,3 +132,24 @@ https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-033/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-035/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.ibb.co/mzDDZdc/dazn1.png" group-title="DAZN" , 037 DAZN 1 🇪🇸 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-037/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://i.ibb.co/NmHJWdT/dazn2.png" group-title="DAZN" , 038 DAZN 2 🇪🇸 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-038/stream.mpd
+
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="https://i.ibb.co/VMRvMyS/laligatvhyperm.png" group-title="DAZN", 040 LaLiga TV HYPERMOTION 🇪🇸 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-040/stream.mpd
