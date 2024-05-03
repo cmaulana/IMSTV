@@ -1,0 +1,26 @@
+<###### FORZA MILAN ######> 
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/AC_Milan.png",
+#EXTINF:-1 tvg-id="Milan TV.it" tvg-logo="https://i.ibb.co/HqPT4m3/milantv.png" group-title="FORZA MILAN" , 025 MILAN TV 🇮🇹 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-025/stream.mpd
+
+<###### BEIN INDI ######> 
+#EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/fh3685HM1lnBBOMnxCdDFeyCKR8=/124x124/smart/filters:format(webp):quality(80)/vidio-web-prod-user/uploads/user/avatar/31703156/beinsportsindonesia-28bfa1.jpg",
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://i.ibb.co/d75VShH/daznxbein1.png" group-title="BEIN SPORTS" , BEIN SPORTS 1 🔴 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png" group-title="BEIN SPORTS" , BEIN SPORTS 3 🔴 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
