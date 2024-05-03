@@ -26,19 +26,6 @@ https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cors-proxy.pulsesoftware.com/https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
-<###### SPOTV ######> 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SPO TV 1" tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg" group-title="MIBW | 03 SPO TV",SPO TV 1 (V+)
-https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SPO TV 2" tvg-logo="https://i.ibb.co/85XFV75/Spotv-2-hometv.jpg" group-title="MIBW | 03 SPO TV",SPO TV 2 (V+)
-https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
 <###### SPORT ID ######> 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
@@ -69,6 +56,19 @@ https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="MIBW | 02 SPORTS ID",SOCCER CHANNEL (V+)
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+<###### SPOTV ######> 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="SPO TV 1" tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg" group-title="MIBW | 03 SPO TV",SPO TV 1 (V+)
+https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="SPO TV 2" tvg-logo="https://i.ibb.co/85XFV75/Spotv-2-hometv.jpg" group-title="MIBW | 03 SPO TV",SPO TV 2 (V+)
+https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 <###### DAZN ######> 
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/Sf4tvWw/daznf1.png" group-title="MIBW | 04 DAZN" , 016 DAZN F1 🇪🇸 
