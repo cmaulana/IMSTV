@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg" group-title="PLAYOFF OLIMPIADE", soccerchannel-test.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg",rcti-soccerchannel-hd.mpd
+#EXTGRP: PLAYOFF OLIMPIADE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg", Sportstar4.mpd cempedak
+#EXTGRP: PLAYOFF OLIMPIADE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg", Sportstar4.mpd testfunctionlive
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
