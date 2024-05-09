@@ -1,27 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg" group-title="PLAYOFF OLIMPIADE", 🇬🇳 GUINEA VS 🇮🇩 INDONESIA 9 Mei 2024 20.00 WIB 🇮🇩
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2024_Indonesia_Football_National_Team_Badge.png/662px-2024_Indonesia_Football_National_Team_Badge.png",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg", VplusLiveRplus.mpd testfunctionlive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://testfunctionlive.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg" group-title="PLAYOFF OLIMPIADE", soccerchannel-test.mpd cempedak
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg", 🇬🇳 GUINEA VS 🇮🇩 INDONESIA 9 Mei 2024 20.00 WIB 🇮🇩
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg" group-title="PLAYOFF OLIMPIADE", soccerchannel-test.mpd testfunctionlive
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://testfunctionlive.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg", rcti-soccerchannel-hd.mpd cloudfront
 #EXTGRP: PLAYOFF OLIMPIADE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg", 🇬🇳 GUINEA VS 🇮🇩 INDONESIA 9 Mei 2024 20.00 WIB 🇮🇩
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg", Sportstar4.mpd cempedak
 #EXTGRP: PLAYOFF OLIMPIADE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg", 🇬🇳 GUINEA VS 🇮🇩 INDONESIA 9 Mei 2024 20.00 WIB 🇮🇩
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg", Sportstar4.mpd testfunctionlive
 #EXTGRP: PLAYOFF OLIMPIADE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6c/6c/82/d5/6c6c82d5-e9c5-411e-8d4d-7fe633a60565.jpg", VplusLiveRplus.mpd cempedak
+#EXTGRP: PLAYOFF OLIMPIADE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
