@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1,ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,JAK TV
+http://202.80.222.130/000001/2/ch00000090990000001695/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,RTV
+http://202.80.222.130/000001/2/ch00000090990000001716/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,Bali TV
+http://202.80.222.130/000001/2/ch00000090990000001729/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,MNCTV
+http://202.80.222.130/000001/2/ch14041511111714365733/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,GTV
+http://202.80.222.130/000001/2/ch14041511505498448705/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,RCTI
+http://202.80.222.130/000001/2/ch14041511532707866226/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,iNews
+http://202.80.222.130/000001/2/ch14041511541532132975/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,Trans 7
+http://202.80.222.130/000001/2/ch14041511545447343123/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,Trans TV
+http://202.80.222.130/000001/2/ch14041511552652254306/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,SCTV
+http://202.80.222.130/000001/2/ch15010918464887721048/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,Indosiar
+http://202.80.222.130/000001/2/ch15051810235326945512/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,(alt) Indosiar 
+http://id2.indostreamingtv.com/live/tv111/index.m3u8
+#EXTINF:-1,jtv
+http://202.80.222.130/000001/2/ch00000090990000001731/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,Metro TV
+http://202.80.222.130/000001/2/ch14041511515576869807/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,Kompas TV
+http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,tvOne
+http://202.80.222.130/000001/2/ch14061215030555428637/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,TVRI
+http://202.80.222.130/000001/2/ch14041511560872104862/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,NET.
+http://202.80.222.130/000001/2/ch00000090990000001723/1000.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
+#EXTINF:-1,FOX life
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/02.m3u8
+#EXTINF:-1,FOX life (alt)
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1,KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+#EXTINF:-1,KIX (alt)
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1,thrill
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1,thrill (alt)
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1,ANIPLUS
+http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8
+#EXTINF:-1,ANIPLUS (alt)
+http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/02.m3u8
+#EXTINF:-1,FOX ACTION MOVIES
+http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8
+#EXTINF:-1,FOX MOVIE PREMIUM - OFF - 
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
+#EXTINF:-1,FOX FAMILY MOVIES - OFF - 
+http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/01.m3u8
+#EXTINF:-1,SBSIN
+http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8
+#EXTINF:-1,SONY ONE
+http://210.210.155.35/session/c27c4c60-7c80-11e8-a629-b82a72d63267/uq2663/h/h13/index.m3u8
+#EXTINF:-1,K-DRAMA
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+#EXTINF:-1,SBSIN
+http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/02.m3u8
+#EXTINF:-1,K-DRAMA
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/02.m3u8
+#EXTINF:-1,SONY ONE
+http://210.210.155.35/session/c27c4c60-7c80-11e8-a629-b82a72d63267/uq2663/h/h13/02.m3u8
+#EXTINF:-1,FOX ACTION MOVIES
+http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/02.m3u8
+#EXTINF:-1,FOX MOVIE PREMIUM
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/02.m3u8
+#EXTINF:-1,Tianying Channel
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1,AYSAR Fight Sports BACKUP
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+#EXTINF:-1,AYSAR CGTN DOCUMENTARY
+http://210.210.155.35/session/ffc58ebe-0755-11e9-9443-c81f66f89318/qwr9ew/s/s20/02.m3u8
+#EXTINF:-1,ALJAZEERA 1
+http://210.210.155.35/session/fa0aa530-7b79-11e8-b63d-c81f66f89318/qwr9ew/s/s17/01.m3u8
+#EXTINF:-1,ALQURANULKARIM
+http://210.210.155.35/session/dc5c3b00-7b7b-11e8-bf09-b82a72d63267/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1,ALSANAT
+http://210.210.155.35/session/8f8cb6f6-7b7b-11e8-a629-b82a72d63267/x6bnqe/s/s27/01.m3u8
+#EXTINF:-1,CCTV4
+http://210.210.155.35/session/54f1bc0e-7b7a-11e8-a6e4-b82a72d63267/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1,CGTN DOCUMENTARY
+http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1,DW TV
+http://210.210.155.35/session/de566102-7b7a-11e8-aa50-c81f66f89318/qwr9ew/s/s26/01.m3u8
+#EXTINF:-1,EURONEWS
+http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
+#EXTINF:-1,FOX SPORTS HD
+http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
+#EXTINF:-1,FRANCE24
+http://210.210.155.35/session/cb44f5f6-7b7a-11e8-8e98-c81f66f89318/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1,PHOENIX
+http://210.210.155.35/session/6c182bb6-7b7a-11e8-b712-b82a72d63267/qwr9ew/s/s21/01.m3u8
+#EXTINF:-1,RT
+http://210.210.155.35/session/efcc94f6-7b7a-11e8-afd3-b82a72d63267/qwr9ew/s/s23/01.m3u8
+#EXTINF:-1,TBN
+http://210.210.155.35/session/664e7ce8-7b7b-11e8-a6e4-b82a72d63267/x6bnqe/s/s39/01.m3u8
+#EXTINF:-1,CHANNEL NEWS ASIA
+http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
+#EXTINF:-1,TVE
+http://210.210.155.35/session/38ee33d8-7b7b-11e8-86db-c81f66f89318/qwr9ew/s/s25/01.m3u8
