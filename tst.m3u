@@ -1,11 +1,8 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-name="SG: Hub Premier 1" tvg-id="HubPremier1.sgbcc" group-title="" group-logo=""  tvg-logo="https://i.postimg.cc/x12jpfVF/Hub-Premier-2-UHD.png",STARHUB PREMIER 1 HD
+#EXTINF:0 tvg-id="testingchannel" tvg-logo="https://i.ibb.co/1G9HmR8/testing-channel.png" group-title="",TEST CHANNEL MPD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=23.20.22.63
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://jitp02.premiumcf2.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd?type=dash
-
-#EXTINF:-1 tvg-name="SG: Hub Premier 1" tvg-id="HubPremier1.sgbcc" group-title="" group-logo=""  tvg-logo="https://i.postimg.cc/x12jpfVF/Hub-Premier-2-UHD.png",STARHUB PREMIER 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jY/yHEZFBu85Y1bddh9czQ", "kid":"hciVayB8RKaT2JmEgDyQiw" } ], "type":"temporary" }
+https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
