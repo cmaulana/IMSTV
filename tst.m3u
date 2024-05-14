@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 xui-id="25481" tvg-id="DiscoveryChannelIndonesia.id" tvg-name="Discovery Channel" tvg-logo="http://www.goldentv.tech:80/images/981adeae3ad4952ebbe1c07b743bce65.jpg" group-title="KNOWLEDGEâ„¢",Discovery Channel
 http://www.goldentv.tech:80/play/Y10wO4Jadw2Kwo5YX_W1A5AkIAV5PCdNm2iVYn5PJ8Q/m3u8
