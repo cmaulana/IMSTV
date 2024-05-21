@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTM3U url-tvg="https://tv.burhansyam.com/xmltv.php" 
+#EXTINF:-1 tvg-id="" tvg-logo="https://gerbangbanten.co.id/wp-content/uploads/2023/09/IMG-20230903-WA0058.jpg" group-title="⚽ Live Event",FIFA +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/proliga.png" group-title="⚽ Live Event", ProLiga 2024 
+#EXTVLCOPT:http-referrer=https://www.vidio.com/ 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
+https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666 
+#EXTINF:-1 tvg-name="Trans TV" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="📺 Nasional",Trans TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://20.detik.com/ 
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8 
+#EXTINF:-1 tvg-name="Trans 7" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="📺 Nasional",Trans 7 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://20.detik.com/ 
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8 
+#EXTINF:-1 tvg-name="NET TV" tvg-logo="https://images.indihometv.com/logo_net_big1.png" group-title="📺 Nasional",NET TV 
+#EXTVLCOPT:http-referrer=http://www.dens.tv/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://210.210.155.35/uq2663/h/h223/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=NET
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="📺 Nasional",RCTI 
+#EXTVLCOPT:http-user-agent=android-R+ 
+#EXTVLCOPT:http-referrer=https://embed.rctiplus.com
+https://tv.burhansyam.com/api/plus.m3u8?ch=1&t=666 
