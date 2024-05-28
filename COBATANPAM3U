@@ -1,7 +1,15 @@
 #EXTM3U
 #EXTM3U billed-msg="TEST PLAYLIST GRATIS ?? | Untuk Kalangan Sendiri."
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/proliga.png" group-title="Live Event", ProLiga CH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://s.id/mojiHD_shareext-xs
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/proliga.png" group-title="Live Event", ProLiga CH2
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
 http://45.12.2.240:8080/b7c2ba83/b65f5b29/298550
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/proliga.png" group-title="Live Event", ProLiga CH3
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
