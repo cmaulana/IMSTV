@@ -5,6 +5,9 @@
 #https://ythls-v2.onrender.com/video/9A-t5aIqlt8.m3u8
 https://ythls.armelin.one/video/9A-t5aIqlt8.m3u8
 
+#EXTINF:-1 tvg-name="MOJI" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HI6zlZ4RE2z0UPQCEW3n0kcQ.png" group-title="SPORT ID",MOJI HOMETV
+https://play.gachor99.my.id:443/hometv_lite/DMnqDy5QEz/117
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/proliga.png" group-title="Live Event", ProLiga CH1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://s.id/mojiHD_shareext-xs
