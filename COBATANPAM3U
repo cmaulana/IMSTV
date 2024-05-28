@@ -1,10 +1,9 @@
 #EXTM3U
 #EXTM3U billed-msg="TEST PLAYLIST GRATIS ?? | Untuk Kalangan Sendiri."
-
 #EXTINF:-1 group-logo="https://www.englishcafe.co.id/wp-content/uploads/2013/05/GratisFreigestellt.png",
-
 #EXTINF:-1 tvg-id="GRATIS" tvg-name="GRATIS" tvg-logo="https://www.englishcafe.co.id/wp-content/uploads/2013/05/GratisFreigestellt.png" group-title="0-GRATIS-0", PLAYLIST INI GRATIS.
-https://ythls-v2.onrender.com/video/9A-t5aIqlt8.m3u8
+#https://ythls-v2.onrender.com/video/9A-t5aIqlt8.m3u8
+https://ythls.armelin.one/video/9A-t5aIqlt8.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://beetv.my.id/logo/proliga.png" group-title="Live Event", ProLiga CH1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
