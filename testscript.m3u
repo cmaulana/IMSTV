@@ -14,3 +14,9 @@ https://tv.burhansyam.com/api/vd.m3u8?ch=indosiar&t=205
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/tPfHPg7/indonesia-vs-filipina.jpg" group-title="LIVE EVENT", INDONESIA VS FILIPINA
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17438_stream.mpd?hdntl=exp=1718127147~acl=%2f*~id=161049633~data=hdntl~hmac=a2baa3bdb1186868fa214d2fb1d8924131528abd629bc8bed03c2cb5bdd3120e
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae45e9ae2f2244c18f804195213a495c:00421dca102c69f8432b48626348a989
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/tPfHPg7/indonesia-vs-filipina.jpg" group-title="LIVE EVENT", INDONESIA VS FILIPINA 2
+https://d2uty8832jppwn.cloudfront.net/out/v1/d0b6763e1b4d4b71869601bfb6ded8da/index.mpd
