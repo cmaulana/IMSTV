@@ -8,3 +8,9 @@ https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
 #EXTVLCOPT:http-referrer=https://www.vidio.com/ 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10 
 https://tv.burhansyam.com/api/vd.m3u8?ch=indosiar&t=205
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=117273a8f5d25e996bc441d80b2d6d61:ddbc23010346a6ace64aa02ed43cf9fe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/tPfHPg7/indonesia-vs-filipina.jpg" group-title="LIVE EVENT", INDONESIA VS FILIPINA
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17438_stream.mpd?hdntl=exp=1718127147~acl=%2f*~id=161049633~data=hdntl~hmac=a2baa3bdb1186868fa214d2fb1d8924131528abd629bc8bed03c2cb5bdd3120e
