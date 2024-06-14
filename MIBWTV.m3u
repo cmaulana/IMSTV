@@ -8,7 +8,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec 
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-025/stream.mpd
+https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-025/stream.mpd
 
 <###### BEIN INDI ######> 
 #EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://i.ibb.co/d75VShH/daznxbein1.png" group-title="MIBW | 01 BEIN SPORTS" , BEIN SPORTS 1 ID 🔴 🇮🇩
