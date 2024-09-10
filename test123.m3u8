@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTM3U billed-msg="TESTER IPTV"
+#EXTM3U refresh="2400"
+
+###### TEST 123 ######
+#EXTINF:-1 tvg-id="imstechnoshop" tvg-logo="https://2.bp.blogspot.com/-_waXadLsMqs/V7phatAvKKI/AAAAAAAAAXA/kR8GZcknWU8TVVapP3UG14Y3SHjfwSJEACK4B/s302/12138347_1010588032325481_3935455832239354013_o.jpg" group-title="TEST 123" , 000 🇮🇹 TEST 123 🇮🇹 000 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://topembed.mizhls.ru/lb//bet6684308/playlist.m3u8
